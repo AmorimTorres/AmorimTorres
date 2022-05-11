@@ -10,7 +10,9 @@
 <ul>
 <br><br><br>
 <br>
+  <div align="center">
   <h2>🔎 Skills</h2>
+  </div>
   <div align="center" style="margin-top: 30px" style="display: inline_block">
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/></code>
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
@@ -34,7 +36,9 @@
 </div>
 <br><br><br>
 <br>
+  <div align="center">
   <h2>📊 Estatistics</h2>
+  </div>
 <p align=center>
   <div align=center>
     <a href="https://github.com/AmorimTorres" title="AmorimTorres profile">
