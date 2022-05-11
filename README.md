@@ -10,9 +10,7 @@
 <ul>
 <br><br><br>
 <br>
-  <div align="center">
-  <h2>🔎 Skills</h2>
-  </div>
+  <h2>🧙‍♂️ Skills</h2>
   <div align="center" style="margin-top: 30px" style="display: inline_block">
   <code><img title="HTML5" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img title="CSS3" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
@@ -27,9 +25,7 @@
 </div>
 <br><br><br>
 <br>
-  <div align="center">
   <h2>📊 Estatistics</h2>
-  </div>
 <p align=center>
   <div align=center>
     <a href="https://github.com/AmorimTorres" title="AmorimTorres profile">
