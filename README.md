@@ -62,11 +62,9 @@
 <br>
 <div align="center">
   <p>
-    Feference Readme <a href="https://github.com/SrTonn">Wellington Rodrigues</a>
+    Reference Readme <a href="https://github.com/SrTonn">Wellington Rodrigues</a>
   </p>
 <br>
-<br>
-  <img src="https://komarev.com/ghpvc/?username=AmorimTorres" alt="profile views" />
 </div>
 <br><br><br>
 
