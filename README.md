@@ -51,7 +51,9 @@
   </div>
 </p>
 <br><br>
+  <div align="center">
   <h2> Let's connect and talk about dreams </h2>
+  </div>
   <div align="center">
   <a href="https://www.linkedin.com/in/andreamorimtorres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
